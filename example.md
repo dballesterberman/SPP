@@ -83,7 +83,7 @@ to review this also when dealing with a nonlocal dielectric function.
 
 This is almost always solved using a Drude-like plasmon to the get:
 
-![img]./(Surface_plasmon_polaritons_(SPP)/2023-08-22_16-25-56_screenshot.png)
+![img](Surface_plasmon_polaritons_(SPP)/2023-08-22_16-25-56_screenshot.png)
 
 The dielectric line with respoect to air or vacuum is important
 because SPP don't couple to any modes outside. The only way to excite
